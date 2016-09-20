@@ -1,1 +1,1 @@
-maintaining javascript
+maintaining javascrip
